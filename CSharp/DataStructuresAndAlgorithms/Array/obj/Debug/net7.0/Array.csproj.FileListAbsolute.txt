@@ -1,0 +1,15 @@
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\bin\Debug\net7.0\Array.exe
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\bin\Debug\net7.0\Array.deps.json
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\bin\Debug\net7.0\Array.dll
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\bin\Debug\net7.0\Array.pdb
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\obj\Debug\net7.0\Array.dll
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\obj\Debug\net7.0\refint\Array.dll
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\obj\Debug\net7.0\Array.pdb
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+D:\Programming\Basic\DataStructuresAndAlgorithms\Array\obj\Debug\net7.0\ref\Array.dll
