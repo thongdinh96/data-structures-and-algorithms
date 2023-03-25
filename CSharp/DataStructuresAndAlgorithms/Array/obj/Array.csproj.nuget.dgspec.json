@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Basic\\DataStructuresAndAlgorithms\\Array\\Array.csproj": {}
+    "D:\\Programming\\Basic\\DataStructuresAndAlgorithms\\CSharp\\DataStructuresAndAlgorithms\\Array\\Array.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Basic\\DataStructuresAndAlgorithms\\Array\\Array.csproj": {
+    "D:\\Programming\\Basic\\DataStructuresAndAlgorithms\\CSharp\\DataStructuresAndAlgorithms\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Basic\\DataStructuresAndAlgorithms\\Array\\Array.csproj",
+        "projectUniqueName": "D:\\Programming\\Basic\\DataStructuresAndAlgorithms\\CSharp\\DataStructuresAndAlgorithms\\Array\\Array.csproj",
         "projectName": "Array",
-        "projectPath": "D:\\Programming\\Basic\\DataStructuresAndAlgorithms\\Array\\Array.csproj",
+        "projectPath": "D:\\Programming\\Basic\\DataStructuresAndAlgorithms\\CSharp\\DataStructuresAndAlgorithms\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Basic\\DataStructuresAndAlgorithms\\Array\\obj\\",
+        "outputPath": "D:\\Programming\\Basic\\DataStructuresAndAlgorithms\\CSharp\\DataStructuresAndAlgorithms\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
